@@ -1,0 +1,16 @@
+/* main.scss */
+.myclass {
+  width: auto; }
+
+/* Font */
+.c-font {
+  font-size: 1rem;
+  font-family: fantasy; }
+  .c-font-size-small {
+    font-size: 0.5rem; }
+  .c-font-size-mid {
+    font-size: 0.8rem; }
+  .c-font-size-large {
+    font-size: 1.2rem; }
+
+/*# sourceMappingURL=main.css.map */
